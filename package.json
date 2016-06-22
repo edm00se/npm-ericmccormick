@@ -1,0 +1,15 @@
+{
+  "name": "ericmccormick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eric McCormick (https://ericmccormick.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "edm00se": "^1.5.0"
+  }
+}
