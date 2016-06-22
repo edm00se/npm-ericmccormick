@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "Eric McCormick (https://ericmccormick.io/)",
   "license": "MIT",
+  "homepage": "https://github.com/edm00se/npm-ericmccormick#readme",
   "dependencies": {
     "edm00se": "^1.5.0"
   }
