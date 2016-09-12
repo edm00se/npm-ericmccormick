@@ -1,6 +1,6 @@
 {
   "name": "ericmccormick",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "MIT",
   "homepage": "https://github.com/edm00se/npm-ericmccormick#readme",
   "dependencies": {
-    "edm00se": "^1.5.0"
+    "edm00se": "*"
   }
 }
