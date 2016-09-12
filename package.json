@@ -1,7 +1,7 @@
 {
   "name": "ericmccormick",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "a more formal 'me'",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,6 @@
   "license": "MIT",
   "homepage": "https://github.com/edm00se/npm-ericmccormick#readme",
   "dependencies": {
-    "edm00se": "*"
+    "edm00se": "^2.0.0"
   }
 }
