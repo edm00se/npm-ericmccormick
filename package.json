@@ -1,16 +1,16 @@
 {
   "name": "ericmccormick",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "a proper-name wrapper for my namesake npm namespace'd package, edm00se",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
   "author": "Eric McCormick (https://ericmccormick.io/)",
   "license": "MIT",
   "homepage": "https://github.com/edm00se/npm-ericmccormick#readme",
   "dependencies": {
-    "edm00se": "*"
+    "edm00se": "2.1.2"
   }
 }
