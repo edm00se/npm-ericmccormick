@@ -1,6 +1,6 @@
 {
   "name": "ericmccormick",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "a proper-name wrapper for my namesake npm namespace'd package, edm00se",
   "main": "index.js",
   "scripts": {
