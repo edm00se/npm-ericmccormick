@@ -11,6 +11,6 @@
   "license": "MIT",
   "homepage": "https://github.com/edm00se/npm-ericmccormick#readme",
   "dependencies": {
-    "edm00se": "2.1.2"
+    "edm00se": "*"
   }
 }
